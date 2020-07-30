@@ -2,11 +2,10 @@
   "categorias": [
     {
       "titulo": "Tecnologia",
-      "link": "https://desorientado.dev/category/tecnologia/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Devaneios sobre a vida digital",
-        "url": "https://desorientado.dev/category/tecnologia/"
+        "text": "Reflexos da vida conectada",
+        "url": "https://desorientado.dev/category/cultura-digital"
       },
       "videos": [
         {
@@ -18,42 +17,76 @@
           "url": "https://www.youtube.com/watch?v=mfIenNIAedw"
         },
         {
-          "titulo": "Westworld | A Realidade da Inteligência Artificial",
-          "url": "https://www.youtube.com/watch?v=oAoAE2BfraY"
+          "titulo": "5 tecnologias de Black Mirror que já estão entre nós | Revista Exame",
+          "url": "https://www.youtube.com/watch?v=xL2vtcYCDNA"
+        },        
+        {
+          "titulo": "GREG NEWS | PRIVACIDADE",
+          "url": "https://www.youtube.com/watch?v=p4DAN1cfA3s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Privacidade Hackeada | Netflix",
+          "url": "https://www.youtube.com/watch?v=wjXYCrxRWqc"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Deslizando: Encontros na Era Digital | Documentários HBO",
+          "url": "https: //www.youtube.com/watch?v=XQ9kR3KnuTA"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Inside Uber's Self-Driving Car | WIRED",
+          "url": "https://www.youtube.com/watch?v=EYh0F_8ZdSU"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Introducing Amazon Go and the world’s most advanced shopping technology",
+          "url": "https://www.youtube.com/watch?v=NrmMk1Myrxc"
+        }
+      ]
+    },
+    {
+      "titulo": "Podcasts",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Devaneios digitais sonoros",
+        "url": "https://sptfy.com/desorientech"
+      },
+      "videos": [
+        {
+          "titulo": "#09 - Debugando a Uber com Renan Fernandes | DesorienTech Podcast",
+          "url": "https://www.youtube.com/watch?v=oQ7_k5R0KOo"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "#08 - Manipulados: O Livro | DesorienTech Podcast",
+          "url": "https://youtu.be/PP_zaZKAj4M"
+        },
+        {
+          "titulo": "#07 - Entregas Remotas | DesorienTech Podcast",
+          "url": "https://youtu.be/HXkXi_GPb4U"
+        },
+        {
+          "titulo": "#06 - Um Museu Reprogramado | DesorienTech Podcast",
+          "url": "https://youtu.be/m2mDRpHeJ1w"
+        },
+        {
+          "titulo": "#05 - O Futuro do Mercado de Dados | DesorienTech Podcast",
+          "url": "https://youtu.be/hvmwccjxOxk"
+        },
+        {
+          "titulo": "#04 - The Developers Conference | DesorienTech Podcast",
+          "url": "https://www.youtube.com/watch?v=u9MKJJRN658"
         }
       ]
     },
     {
       "titulo": "Codificação",
-      "cor": "#00C86F",
+      "cor": "red",
       "link_extra": {
         "text": "Escovando bits e pescando logs",
         "url": "https://desorientado.dev/category/codificacao/"
       },
       "videos": [
         {
-          "titulo": "Como funciona o StackOverflow? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=VY4tOs4UPhQ"
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
           "titulo": "Curso de Java - Como Funciona o Java - Gustavo Guanabara",
@@ -62,6 +95,10 @@
         {
           "titulo": "Melhor forma de aprender Python",
           "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como funciona o StackOverflow? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=VY4tOs4UPhQ"
         },
         {
           "titulo": "Usando Git Direito",
@@ -74,106 +111,104 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Café Virtual",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Integração contínua no mercado tech",
+        "url": " https://desorientado.dev/category/tecnologia/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "#AuxílioEmergencial 🇧🇷 #Dataprev Saiba como as famílias são identificadas",
+          "url": "https://www.youtube.com/watch?v=_55sgB80FeA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "TDC Recife 2019 | #TheDevConf",
+          "url": "https://www.youtube.com/watch?v=Q0ZEuxjygBQ"
+        },
+        {
+          "titulo": "Mentalidade 'Dia Um', com Jeff Bezos | Buyandhold Brasil",
+          "url": "https://www.youtube.com/watch?v=hObNkXnr3iQ"
+        },
+        {
+          "titulo": "O Código Bill Gates | Netflix",
+          "url": "https://www.youtube.com/watch?v=yOCjrGevsdo"
         },
         {
           "titulo": "Opinião: O Mercado de Tecnologia no Governo Bolsonaro | Código Fonte TV",
           "url": "https://www.youtube.com/watch?v=9Ie56SvXAX4"
+        },
+        {
+          "titulo": "Você corre riscos com a privatização do Serpro e da DataPrev. Entenda! | Brasil de Fato",
+          "url": "https://www.youtube.com/watch?v=jFBF1C7OywA"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Art&Fatos",
       "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Podcasts",
-      "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Hackeando ficções (ir)reais",
+        "url": "https://medium.com/artefato"
       },
       "videos": [
         {
-          "titulo": "Debugando a Uber com Renan Fernandes",
-          "url": "https://youtu.be/xOwtj8J8qfE"
+          "titulo": "Ex Machina: O Teste de Turing | Yeah! Science",
+          "url": "https://www.youtube.com/watch?v=S9gus8GY4g8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Westworld | A Realidade da Inteligência Artificial",
+          "url": "https://www.youtube.com/watch?v=oAoAE2BfraY"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "War for the Planet of the Apes | Legacy",
+          "url": "https://www.youtube.com/watch?v=wWNk3COVNS4"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Pixar: The Story Behind the Studio | Bloop Animation",
+          "url": "https://www.youtube.com/watch?v=MSkeNmz7v4M"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Por Que O Tempo Voa | Todavia Livros",
+          "url": "https://www.youtube.com/watch?v=xOwtj8J8qfE"
+        },
+        {
+          "titulo": "Uma entrevista com Yuval Noah Harari | #NaJanelaFestival: Não Ficção",
+          "url": "https: //www.youtube.com/watch?v=3hEOfmjiIOk"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Aprendizagem",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Buscando conhecimento com a Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
           "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ"
         },
         {
           "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw"
+        },
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk"
+        },
+        {
+          "titulo": "Educação para o Futuro | Atila Iamarino | TEDxUSP",
+          "url": "https: //www.youtube.com/watch?v=B_x8EccxJjU"
+        },
+        {
+          "titulo": "A Ciência fora da Academia | André Souza | TEDxUSP",
+          "url": "https://www.youtube.com/watch?v=Usc5Khvrj20"
+        },
+        {
+          "titulo": "Escolas Matam a Aprendizagem | Murilo Gun | TEDxFortaleza",
+          "url": "https://www.youtube.com/watch?v=WauIURFTpEc"
         }
       ]
     }
