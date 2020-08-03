@@ -1,0 +1,288 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Tecnologia",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Reflexos da vida conectada",
+        "url": "https://desorientado.dev/category/cultura-digital"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Podcasts",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Devaneios digitais sonoros",
+        "url": "https://sptfy.com/desorientech"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Codificação",
+      "cor": "red",
+      "link_extra": {
+        "text": "Escovando bits e pescando logs",
+        "url": "https://desorientado.dev/category/codificacao/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Café Virtual",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Integração contínua no mercado tech",
+        "url": " https://desorientado.dev/category/tecnologia/"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Art&Fatos",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Hackeando ficções (ir)reais",
+        "url": "https://medium.com/artefato"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Aprendizagem",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Buscando conhecimento com a Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Chatbots: O Humano Mais Humano? #NerdologiaTech",
+      "url": "https://www.youtube.com/watch?v=VhC_wAsw2-c"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Computadores têm alma? | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=mfIenNIAedw"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "5 tecnologias de Black Mirror que já estão entre nós | Revista Exame",
+      "url": "https://www.youtube.com/watch?v=xL2vtcYCDNA"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "GREG NEWS | PRIVACIDADE",
+      "url": "https://www.youtube.com/watch?v=p4DAN1cfA3s"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Privacidade Hackeada | Netflix",
+      "url": "https://www.youtube.com/watch?v=wjXYCrxRWqc"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Deslizando: Encontros na Era Digital | Documentários HBO",
+      "url": "https: //www.youtube.com/watch?v=XQ9kR3KnuTA"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Inside Uber's Self-Driving Car | WIRED",
+      "url": "https://www.youtube.com/watch?v=EYh0F_8ZdSU"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Introducing Amazon Go and the world’s most advanced shopping technology",
+      "url": "https://www.youtube.com/watch?v=NrmMk1Myrxc"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "#09 - Debugando a Uber com Renan Fernandes | DesorienTech Podcast",
+      "url": "https://www.youtube.com/watch?v=oQ7_k5R0KOo"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "#08 - Manipulados: O Livro | DesorienTech Podcast",
+      "url": "https://youtu.be/PP_zaZKAj4M"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "#07 - Entregas Remotas | DesorienTech Podcast",
+      "url": "https://youtu.be/HXkXi_GPb4U"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "#06 - Um Museu Reprogramado | DesorienTech Podcast",
+      "url": "https://youtu.be/m2mDRpHeJ1w"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "#05 - O Futuro do Mercado de Dados | DesorienTech Podcast",
+      "url": "https://youtu.be/hvmwccjxOxk"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "#04 - The Developers Conference | DesorienTech Podcast",
+      "url": "https://www.youtube.com/watch?v=u9MKJJRN658"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Curso de Java - Como Funciona o Java - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=v_ZCtgwbS3o"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Melhor forma de aprender Python",
+      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Como funciona o StackOverflow? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=VY4tOs4UPhQ"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "Usando Git Direito",
+      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "Learn Regular Expressions (Regex) | Free Code Camp",
+      "url": "https://www.youtube.com/watch?v=ZfQFUJhPqMM"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "#AuxílioEmergencial 🇧🇷 #Dataprev Saiba como as famílias são identificadas",
+      "url": "https://www.youtube.com/watch?v=_55sgB80FeA"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "TDC Recife 2019 | #TheDevConf",
+      "url": "https://www.youtube.com/watch?v=Q0ZEuxjygBQ"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Mentalidade 'Dia Um', com Jeff Bezos | Buyandhold Brasil",
+      "url": "https://www.youtube.com/watch?v=hObNkXnr3iQ"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "O Código Bill Gates | Netflix",
+      "url": "https://www.youtube.com/watch?v=yOCjrGevsdo"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "Opinião: O Mercado de Tecnologia no Governo Bolsonaro | Código Fonte TV",
+      "url": "https://www.youtube.com/watch?v=9Ie56SvXAX4"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "Você corre riscos com a privatização do Serpro e da DataPrev. Entenda! | Brasil de Fato",
+      "url": "https://www.youtube.com/watch?v=jFBF1C7OywA"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Ex Machina: O Teste de Turing | Yeah! Science",
+      "url": "https://www.youtube.com/watch?v=S9gus8GY4g8"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Westworld | A Realidade da Inteligência Artificial",
+      "url": "https://www.youtube.com/watch?v=oAoAE2BfraY"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "War for the Planet of the Apes | Legacy",
+      "url": "https://www.youtube.com/watch?v=wWNk3COVNS4"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "Pixar: The Story Behind the Studio | Bloop Animation",
+      "url": "https://www.youtube.com/watch?v=MSkeNmz7v4M"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "Por Que O Tempo Voa | Todavia Livros",
+      "url": "https://www.youtube.com/watch?v=xOwtj8J8qfE"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "Uma entrevista com Yuval Noah Harari | #NaJanelaFestival: Não Ficção",
+      "url": "https: //www.youtube.com/watch?v=3hEOfmjiIOk"
+    },
+    {
+      "id": 33,
+      "categoriaId": 6,
+      "titulo": "Faculdade",
+      "url": "https://www.youtube.com/watch?v=jw06H8esyzQ"
+    },
+    {
+      "id": 34,
+      "categoriaId": 6,
+      "titulo": "Como aprender a programar?",
+      "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw"
+    },
+    {
+      "id": 35,
+      "categoriaId": 6,
+      "titulo": "Como estudar melhor?",
+      "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk"
+    },
+    {
+      "id": 36,
+      "categoriaId": 6,
+      "titulo": "Educação para o Futuro | Atila Iamarino | TEDxUSP",
+      "url": "https: //www.youtube.com/watch?v=B_x8EccxJjU"
+    },
+    {
+      "id": 37,
+      "categoriaId": 6,
+      "titulo": "A Ciência fora da Academia | André Souza | TEDxUSP",
+      "url": "https://www.youtube.com/watch?v=Usc5Khvrj20"
+    },
+    {
+      "id": 38,
+      "categoriaId": 6,
+      "titulo": "Escolas Matam a Aprendizagem | Murilo Gun | TEDxFortaleza",
+      "url": "https://www.youtube.com/watch?v=WauIURFTpEc"
+    }
+  ]
+}
