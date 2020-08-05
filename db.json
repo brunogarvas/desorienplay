@@ -60,7 +60,8 @@
       "id": 1,
       "categoriaId": 1,
       "titulo": "Chatbots: O Humano Mais Humano? #NerdologiaTech",
-      "url": "https://www.youtube.com/watch?v=VhC_wAsw2-c"
+      "url": "https://www.youtube.com/watch?v=VhC_wAsw2-c",
+      "description": "Uma gravação com empatia e interagindo no momento correto pode ser mais humano que alguém com respostas e perguntas inflexíveis? A automação roubará seus empregos? Mudanças que nos ajudarão a repensar nossas atividades diárias."
     },
     {
       "id": 2,
@@ -283,6 +284,12 @@
       "categoriaId": 6,
       "titulo": "Escolas Matam a Aprendizagem | Murilo Gun | TEDxFortaleza",
       "url": "https://www.youtube.com/watch?v=WauIURFTpEc"
+    },
+    {
+      "titulo": "Stephen Hawking's big ideas... made simple | Guardian Animations",
+      "url": "https://www.youtube.com/watch?v=D6lFGJdwRyo",
+      "categoriaId": 5,
+      "id": 39
     }
   ]
 }
