@@ -5,9 +5,11 @@ import Logo from '../../assets/img/desorientado-dev-logo.png';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https:/www.desorientado.dev" target="_blank">
-        <img src={Logo} alt="Logo Desorientado.Dev" />
-      </a>
+      <p>
+        <a href="https:/www.desorientado.dev" target="_blank">
+          <img src={Logo} alt="Logo Desorientado.Dev" />
+        </a>
+      </p>
       <p>
         Orgulhosamente criado durante a
         {' '}
